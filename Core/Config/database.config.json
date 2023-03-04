@@ -1,0 +1,11 @@
+{
+    "mssql":{
+        "server":"localhost",
+        "user":"sa",
+        "password":"privatesqlsrv",
+        "dbname":"SomeDatabase",
+        "options":{
+            "trustServerCertificate": true
+        }
+    }
+}
